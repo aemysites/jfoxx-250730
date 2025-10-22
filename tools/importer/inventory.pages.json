@@ -1,0 +1,476 @@
+{
+  "templates": [
+    {
+      "name": "'Directory Listing Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom",
+          "uuid": "cc6a2714e559b6f8deaba00b1e4adaf3667657fd"
+        },
+        {
+          "url": "https://www.gsa.gov/forms",
+          "uuid": "fca58c2a7978a8a9da6831712dcda247f8ab0d26"
+        },
+        {
+          "url": "https://www.gsa.gov/directives-library",
+          "uuid": "f219766e2d450b536bd75dff4e4f71cc63cb0d26"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/news-releases",
+          "uuid": "d0e06439c1b904178288b3ae11c22b80a3657aa1"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/speeches-by-the-administrator",
+          "uuid": "db448d9f1c7810549f06b98a99902cbef9186f56"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/photo-galleries",
+          "uuid": "09946c0a963eef4b0738bc38891b7c78bf393bc1"
+        },
+        {
+          "url": "https://www.gsa.gov/sitemap",
+          "uuid": "440a4bab41236405dd0c6f764989fbdf46b365a6"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa",
+          "uuid": "6964b404cd56f7d70850c359cdd4b84250d20673"
+        },
+        {
+          "url": "https://www.gsa.gov/reference/reports/ocia-library",
+          "uuid": "843156a4344324baababf04b8ef9a8e74ecbdabc"
+        },
+        {
+          "url": "https://www.gsa.gov/fine-arts",
+          "uuid": "68c06f46867bfde8b6c87efa4f8b104db84b51bf"
+        },
+        {
+          "url": "https://www.gsa.gov/policy-regulations/regulations",
+          "uuid": "5cd3d3add32a9bf714648981e34f82a829da5d71"
+        },
+        {
+          "url": "https://www.gsa.gov/resources/resources-for-americans-with-disabilities",
+          "uuid": "ce5abb5af3b743bc9c3e3b4fe18991587f453015"
+        },
+        {
+          "url": "https://www.gsa.gov/staff-directory",
+          "uuid": "a5c9899fbc4d69f3e8df962c254f2b5cbba58497"
+        },
+        {
+          "url": "https://www.gsa.gov/reference/statutes",
+          "uuid": "63652cfbc8e9cc3be5abaf82d329b77f52da3c14"
+        },
+        {
+          "url": "https://www.gsa.gov/we-apologize-for-the-inconvenience",
+          "uuid": "2eb1bc9af7923053248a9e50274409e4779899ad"
+        }
+      ]
+    },
+    {
+      "name": "'portfolio gallery'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program/ereta-user-account-request-process",
+          "uuid": "17783de9f82c8afa55c713ed7454b999167a8665"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation",
+          "uuid": "ee175a5eaccc18089b4b19a9ddb3ca05d36d1d06"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-11-national-capital/region-11-newsroom/national-capital-region-feature-stories-and-news-releases",
+          "uuid": "50f1d491e5699bed31c1ee033ab99faf8b689dde"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-4-southeast-sunbelt/region-4-newsroom/around-the-region",
+          "uuid": "98e2102293f172f89bec1c90873c2cb454d58d80"
+        }
+      ]
+    },
+    {
+      "name": "'Form page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-1-new-england/region-1-newsroom/press-releases",
+          "uuid": "2590d91792e9a5b2bade269963c9ef7e469098fc"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-1-new-england/region-1-newsroom/feature-stories",
+          "uuid": "c9ec513b2bd11bc1ddfcd8648fc98cfad5e576ba"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic/buildings-and-facilities/idaho/photo-gallery",
+          "uuid": "e040d6877bd6491748f1801879ae346e937380dd"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic/buildings-and-facilities/oregon/photo-gallery",
+          "uuid": "7cbe89fdcc384adf40f30bff86edee5a59e3caad"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic/buildings-and-facilities/alaska/photo-gallery",
+          "uuid": "dba002e90f984c45ef9691213fb3dd4b65f9fa38"
+        }
+      ]
+    },
+    {
+      "name": "'dashboard template'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/technology/government-it-initiatives/cybersecurity",
+          "uuid": "dfef0c2c15947b66d175efe046ece05b2f26842b"
+        },
+        {
+          "url": "https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/telecommunications-and-network-services",
+          "uuid": "c9756bc37046bc306f05bcd5d4917ac92994708c"
+        },
+        {
+          "url": "https://www.gsa.gov/technology/government-it-initiatives/federal-identity-credential-and-access-management",
+          "uuid": "0bc0f13a0ea7892f6b4f195896ae382929673087"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings",
+          "uuid": "26270448699591f21632beca9754c5233f6c6363"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings/explore-by-architectural-style",
+          "uuid": "6126ab8041010d57f3d4fe5fffd091ce96b6bb10"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/historic-building-stewardship",
+          "uuid": "7ea1d4c5ef2cf5cf132574432d0d8c6889faec4c"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/celebrate-american-architecture",
+          "uuid": "be1624d013a96e9306d9f258ef258d3898edf379"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings/find-a-building",
+          "uuid": "d113879a2afa18efed5ba87e2f329808850f6a20"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools",
+          "uuid": "9c99314197cf5c6cf62785b5573867eea8198126"
+        }
+      ]
+    },
+    {
+      "name": "'dashboard page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/events-training-and-request-a-speaker/gsa-events",
+          "uuid": "a3c58805b15b3095911b7b6caa0e4e6f9a745987"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools/preservation-tools-and-resources/technical-procedures",
+          "uuid": "f5828f7fde0d5095a9ad09fac29213d17b646c8e"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic/region-10-newsroom/r10-press-releases",
+          "uuid": "bd22b9c18a704685914fba32ace07b837fb00b64"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic/buildings-and-facilities/washington/photo-gallery",
+          "uuid": "e5d8f1a28c5beac58ca3afc74ae4deba109d026b"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Page'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/gsa-regions/region-5-great-lakes/region-5-newsroom/great-lakes-feature-stories-and-news-releases",
+          "uuid": "708eb270f4431e4849f6cba64222765a60c9fc06"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/winstead-testimony-on-greening-of-federal-bldgs-04172008",
+          "uuid": "917be94484027cb93004c68d56d57fb62b98e57a"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/doans-statement-before-the-house-appropriations-f-04032008",
+          "uuid": "3158dc2bd724b74ad4f0d5b95c1627f55f608728"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/dave-mcclure-testifies-on-web-20-technologies-07232010",
+          "uuid": "8abc45c079d996a07947e81d691fee3a7d1e0d5a"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/greening-washington-the-national-capital-region-04172008",
+          "uuid": "521a957ae907e880df690287cadedae52aa84ecb"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/oversight-of-contractor-performance-information-03062014",
+          "uuid": "4b147d3ecd9c3f11df4a3a621dedbb4ab46d10d0"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/kempf-testimony-for-small-businesses-success-06072012",
+          "uuid": "6311ac521960b6ecc685976c1f009f917ab071b4"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/effects-of-strategic-sourcing-on-small-business-06132013",
+          "uuid": "60f7b2bc26d233d5aecdeb7823e27fe792a2b5f3"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/emerging-procurement-processes-03062008",
+          "uuid": "e65f50ce03d66a386dbadbf3d9775568aaf95640"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/transparency-and-fairness-in-acquisition-02262009",
+          "uuid": "027332aa5a0cf8d8a0b6b5f0a8ef0160c7631f7b"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-ig-report-fy-2013-budget-request-04182012",
+          "uuid": "d93e5cd5fd4aebc4d43aa64284ae0c7c18acbd46"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/fiscal-year-2015-budget-hearing-oral-testimony-04082014",
+          "uuid": "2daf6040747d6c7530b28d602870eb0756c674a1"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/foley-ssa-national-support-center-02162011",
+          "uuid": "180e2e4056130198a06e3737611b4e4257a345e8"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/fssi-leveraging-the-governments-buying-power-07162013",
+          "uuid": "1100cea2d2fe638b3656d4d85122dc7081ac3708"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/fy-2011-budget-request-for-the-general-services-ad-04282010",
+          "uuid": "cb2dc0fc2caf9448537ef1e33cbbda57b063d966"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/green-modernization-and-construction-04222009",
+          "uuid": "382b84515b9cae607c56c755102f265405b7bcfb"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/49-l-street-se-washington-dc-04252013",
+          "uuid": "e2016ceb446fcff2faca91cc60ce640dd18c7575"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/administrator-consolidate-federal-office-space-04062011",
+          "uuid": "8522878d61e70e088b8ca59b81d205804f70e65e"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/after-the-dust-settles-examining-challenges-04222010",
+          "uuid": "73ec136b484213c5832d78a4a30356db91fab6ad"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/assessing-nasas-real-property-02102014",
+          "uuid": "51bf51e9bb045503693cf7e67ee5479e266c28c2"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/benefits-of-green-buildings-on-costs-envnmt-jobs-07162009",
+          "uuid": "d906770cbc8efc164d8f0deacbe24a3a4f81ee83"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/cloud-computing-07012010",
+          "uuid": "d4099df77673b73ee59a987aa1d009c1d6793f57"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/cloud-computing-security-implications-06062011",
+          "uuid": "54e5b0e9e0b47bd72de72dad2e18dddccca6a257"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/congressional-testimony-on-fema-trailers-04282010",
+          "uuid": "f99d126e1080a0e3fc5ef49fe203ceff9d8c16b2"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/consolidated-headquarters-dept-homeland-security-03262009",
+          "uuid": "aa29f7bd2d727487e393db0ed38c8844d101d3a2"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/contribution-to-our-nations-economic-recov-02122009",
+          "uuid": "6c81f95156a0c957d8c858569ad79a114f1fc60e"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/dyer-courthouse-08062012",
+          "uuid": "744a5f313c1ef4f44060063bc1ced4b1ca9d2542"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/energy-efficiency-at-va-09302009",
+          "uuid": "7b74e0b897e2cbe7b3e7397e8ad35ac14ad825d8"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/far-rulemaking-compliance-integrity-04152008",
+          "uuid": "fb0e097e56c7bcc7e6306f6013a3326155cdc95a"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/federal-green-buildings-07212010",
+          "uuid": "27fd5059cd687aa59448acaec2671a60db088478"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/fiscal-year-2015-budget-hearing-04082014",
+          "uuid": "d10b90c9935a0da0b323d66220fe988158abe73d"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/september-17-09172009",
+          "uuid": "317572278b78a3d3295864f7a85d24bd1ac5fa82"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/security-in-federal-buildings-09232009",
+          "uuid": "b0de5f7c434fe4b30f29f78ec05f3d5cc138c4a2"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/progress-made-by-ssa-for-recovery-act-04282009",
+          "uuid": "e5cc3384ab5a60bd8d734c31cfb78e89f83a23c4"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/progress-implementing-on-the-recovery-act-04292009",
+          "uuid": "00bb1a603226d8831444e29c96c500dd5844be85"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/peck-sitting-on-our-assets-02162011",
+          "uuid": "4e75b788f785429bcd144e149581ee4c52ff9869"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/one-year-later-effectively-utilizing-assets-02092012",
+          "uuid": "cf15f80af3e2c18e25b74e67550fd75332d00568"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/national-broker-contracts-07152009",
+          "uuid": "c522281933d05b991216b1623c5bf36336146487"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/metzler-testimony-at-house-subcommittee-02272013",
+          "uuid": "759e98eb23b5a562ab3d2fd0ecb2b7dab728dad0"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/lovelace-testimony-on-presidential-transition-09102008",
+          "uuid": "930b8feb5cdd0cd96764cbce764a96e3152dc084"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/implementing-federal-advisory-committee-act-faca-04022008",
+          "uuid": "8c27dca4e1095f90595ad04c10fd4f9b7344d6af"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/hearing-on-the-proposed-eisenhower-memorial-03202012",
+          "uuid": "ca947c7baccbb1cb44806bc58f981d19a45318f9"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsas-records-goals-for-small-businesses-03062008",
+          "uuid": "0aa7f3d7f32847633d646a2a667730477b61bdc7"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsas-perspective-on-small-business-contracting-12202011",
+          "uuid": "e9a66f743c8d639f4a77305ab17aac9647fb9580"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsas-fy-09-capital-investment-and-leasing-program-07112008",
+          "uuid": "797b906c71ecd01c18eb7f5835e8bbfde6b23a10"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsas-capital-program-07292008",
+          "uuid": "2a63e68a04c8cfbf2ec776e6647282139d68b0d5"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-testimony-03052013",
+          "uuid": "ca32836df1c0de5e3813906c52bd4ee79e527470"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-supports-on-government-efficient-it-purchasing-03172011",
+          "uuid": "4fcb0407db5f31d2db7b0f2c784a7ff47a99ecd0"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-stimulus-fundsup-out-and-creating-jobs-05052009",
+          "uuid": "19315e3a75c8c526d52174643973b08c34179256"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-reform-08012012",
+          "uuid": "82d4214e20ac05381a9192dc5d8dc60806a3ae0f"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-meeting-goals-for-small-business-constructions-02092012",
+          "uuid": "6ac4c5248c697dc75eaeb61745fb51583c8c1a88"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-investments-for-fy2012-capital-investments-03102011",
+          "uuid": "5bc2fea541ec415115a6ee6761100a12bb6f3471"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-inspector-general-report-04182012",
+          "uuid": "aefe7d06c9c6758bd1eddef0df83c7a469c7eefb"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/gsa-inspector-general-report-04172012",
+          "uuid": "aadd35c247637c92e85fd198f9750831f60c674b"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/st-elizabeths-redevelopment-framework-plan-12032008",
+          "uuid": "6428c300974c1f160c0efd171439b154516a7830"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/sitting-on-our-assets-the-cotton-annex-03222012",
+          "uuid": "fcc644e1f661f5d6f957a456fb96b7fe2102fdd5"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/the-next-it-revolution-cloud-computing-challenges-12202011",
+          "uuid": "2b5e502d53f24785302b5cc997eda739e2b87782"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/smart-decisions-to-lower-costs-improve-performance-03302011",
+          "uuid": "a658d089c3033cea94f6ef78b45e2dc40c0f7139"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/working-collaboratively-to-address-challenges-12202011",
+          "uuid": "9e5ac69aba26aa9b081fd0ae7622d0c814cea54d"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/workplace-requirements-through-new-construction-06062008",
+          "uuid": "2d7132046579c4171504aa96a5a60cb14c9b849a"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/west-heating-plant-06192012",
+          "uuid": "dc868f156d8acb5f91e865f75d327ba5e72368b6"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/uncle-sam-wants-you-05072009",
+          "uuid": "4bbd3bc4e8ec36d881cc105371cba49b29a6d870"
+        },
+        {
+          "url": "https://www.gsa.gov/about-us/newsroom/congressional-testimony/transfersdonations-of-fema-household-goods-07312008",
+          "uuid": "6b109dc71b9c0607361e3c537eafcf8fdcf4b5ba"
+        }
+      ]
+    }
+  ]
+}
