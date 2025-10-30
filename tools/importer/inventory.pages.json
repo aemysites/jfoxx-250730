@@ -1,0 +1,78 @@
+{
+  "templates": [
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/historic-building-stewardship",
+          "uuid": "7ea1d4c5ef2cf5cf132574432d0d8c6889faec4c"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/historic-preservation/explore-historic-buildings",
+          "uuid": "26270448699591f21632beca9754c5233f6c6363"
+        }
+      ]
+    },
+    {
+      "name": "'data dashboard'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/gsa-properties/courthouse-program",
+          "uuid": "f06f3e542281c92d55bcb44acc05b235d1ceb104"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/gsa-properties/regional-buildings",
+          "uuid": "1b97892560c3a768e505332bf3425f5bd80c1846"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/gsa-properties/renting-gsa-property",
+          "uuid": "4ef7edc499c82bc1701a635c18897a74dbe2488e"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate",
+          "uuid": "6dfe095bb64faf316e5fa798d3e2da10d7e030e1"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/facilities-management/utility-services",
+          "uuid": "8478030d3ddc2c717e0325db42471c159d13c111"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/facilities-management/facilities-operations",
+          "uuid": "8a302a39153a2d748cc9676c65e4a0d4ce5d8dc9"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/facilities-management/security",
+          "uuid": "b18a1481afda1d6073877919ee920def1c6fe766"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Page'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.gsa.gov/real-estate/real-estate-services/rent-pricing-and-payments",
+          "uuid": "e3e49396bd6347b6fed5b3a5d40dfb88dcfdced5"
+        },
+        {
+          "url": "https://www.gsa.gov/real-estate/real-estate-services/leasing",
+          "uuid": "5a7218f907db41489f566002ff33fa8ca763f024"
+        }
+      ]
+    }
+  ]
+}
